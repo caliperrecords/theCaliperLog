@@ -1,0 +1,2184 @@
+{
+  "source": "https://music.163.com/#/playlist?id=5188962093",
+  "playlistId": "5188962093",
+  "count": 99,
+  "generatedAt": "2026-07-11",
+  "tracks": [
+    {
+      "number": 96,
+      "id": "4175378",
+      "title": "3rd Planet",
+      "artist": "Modest Mouse",
+      "cover": "https://p2.music.126.net/HBifKCcahhI-p1U93B5mgg==/109951163719548848.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=4175378",
+      "color": {
+        "palette": [
+          "#604e60",
+          "#6f6b6e",
+          "#e1dee1"
+        ],
+        "hue": 299.04,
+        "saturation": 0.167,
+        "brightness": 0.442,
+        "whiteness": 0.067,
+        "darkness": 0.074,
+        "family": "violet",
+        "temperature": 0.04
+      }
+    },
+    {
+      "number": 73,
+      "id": "2948133",
+      "title": "The Leanover",
+      "artist": "Life Without Buildings",
+      "cover": "https://p1.music.126.net/RH9e16Qv5nwlTZLE4EPL_Q==/109951171906143974.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2948133",
+      "color": {
+        "palette": [
+          "#050608",
+          "#faf7f4",
+          "#e6e0e0"
+        ],
+        "hue": 264.75,
+        "saturation": 0.168,
+        "brightness": 0.452,
+        "whiteness": 0.292,
+        "darkness": 0.395,
+        "family": "violet",
+        "temperature": 0.04
+      }
+    },
+    {
+      "number": 40,
+      "id": "26093932",
+      "title": "K.A.O.S vs 電",
+      "artist": "VELTPUNCH",
+      "cover": "https://p1.music.126.net/eQTwWvRx8G3dAYduBnHzfQ==/109951170914455466.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=26093932",
+      "color": {
+        "palette": [
+          "#1c1b34",
+          "#cabec4",
+          "#87768f"
+        ],
+        "hue": 285.11,
+        "saturation": 0.286,
+        "brightness": 0.483,
+        "whiteness": 0.01,
+        "darkness": 0.241,
+        "family": "violet",
+        "temperature": 0.04
+      }
+    },
+    {
+      "number": 2,
+      "id": "2193510",
+      "title": "Anthems For A Seventeen Year-Old Girl",
+      "artist": "Broken Social Scene",
+      "cover": "http://p1.music.126.net/jYYxjS-YNODRJixTfNgPjg==/109951169891132296.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2193510",
+      "color": {
+        "palette": [
+          "#bec5cb",
+          "#a6754f",
+          "#af8b69"
+        ],
+        "hue": 266.23,
+        "saturation": 0.237,
+        "brightness": 0.7,
+        "whiteness": 0.048,
+        "darkness": 0.04,
+        "family": "violet",
+        "temperature": 0.04
+      }
+    },
+    {
+      "number": 62,
+      "id": "1833949127",
+      "title": "Sfearion",
+      "artist": "Emperor X",
+      "cover": "https://p2.music.126.net/MfLTYUhRTN6ujHzlUgRllQ==/109951165850973316.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1833949127",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#a5aec8",
+          "#c1c7d9"
+        ],
+        "hue": 263.33,
+        "saturation": 0.16,
+        "brightness": 0.783,
+        "whiteness": 0.333,
+        "darkness": 0.035,
+        "family": "violet",
+        "temperature": 0.04
+      }
+    },
+    {
+      "number": 18,
+      "id": "565102702",
+      "title": "Every Famous Last Word",
+      "artist": "Miracle of 86",
+      "cover": "https://p2.music.126.net/AHRfZhlzbojgzDZzyTy6eA==/109951163309346322.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=565102702",
+      "color": {
+        "palette": [
+          "#0d0b0c",
+          "#351f1b",
+          "#713424"
+        ],
+        "hue": 337.5,
+        "saturation": 0.233,
+        "brightness": 0.119,
+        "whiteness": 0.0,
+        "darkness": 0.849,
+        "family": "black",
+        "temperature": 0.08
+      }
+    },
+    {
+      "number": 68,
+      "id": "19639807",
+      "title": "Terminus",
+      "artist": "Unwound",
+      "cover": "https://p1.music.126.net/pnPLJCXicGG8VTkRRCqUBA==/109951163511406505.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19639807",
+      "color": {
+        "palette": [
+          "#2e2b26"
+        ],
+        "hue": 39.47,
+        "saturation": 0.173,
+        "brightness": 0.176,
+        "whiteness": 0.0,
+        "darkness": 1.0,
+        "family": "black",
+        "temperature": 0.08
+      }
+    },
+    {
+      "number": 25,
+      "id": "1369213867",
+      "title": "Good Times",
+      "artist": "A.M.Vibe",
+      "cover": "https://p2.music.126.net/1YgKOmPP0MVSw6U2w3vo1w==/109951164117491593.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1369213867",
+      "color": {
+        "palette": [
+          "#1b1817",
+          "#3b3334",
+          "#595153"
+        ],
+        "hue": 15.46,
+        "saturation": 0.177,
+        "brightness": 0.179,
+        "whiteness": 0.018,
+        "darkness": 0.814,
+        "family": "black",
+        "temperature": 0.08
+      }
+    },
+    {
+      "number": 14,
+      "id": "1983321873",
+      "title": "Dial 'M' for Murder",
+      "artist": "Crash Romeo",
+      "cover": "https://p2.music.126.net/KQlDNwjbRR7wxdCkqBIu2g==/109951167896874252.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1983321873",
+      "color": {
+        "palette": [
+          "#0b0706",
+          "#1d1b17",
+          "#3c3a32"
+        ],
+        "hue": 33.43,
+        "saturation": 0.417,
+        "brightness": 0.244,
+        "whiteness": 0.0,
+        "darkness": 0.595,
+        "family": "black",
+        "temperature": 0.08
+      }
+    },
+    {
+      "number": 5,
+      "id": "1304382284",
+      "title": "Black",
+      "artist": "Okkervil River",
+      "cover": "http://p1.music.126.net/nYPqVPCcmwdKcsRvFfu3Kw==/109951163500616516.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1304382284",
+      "color": {
+        "palette": [
+          "#110509",
+          "#3c3636",
+          "#565353"
+        ],
+        "hue": 344.44,
+        "saturation": 0.302,
+        "brightness": 0.302,
+        "whiteness": 0.08,
+        "darkness": 0.485,
+        "family": "black",
+        "temperature": 0.08
+      }
+    },
+    {
+      "number": 39,
+      "id": "19159998",
+      "title": "Jumpers",
+      "artist": "Sleater-Kinney",
+      "cover": "https://p1.music.126.net/kif3DOEpq3Fj4K4svA6XMg==/109951163831756043.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19159998",
+      "color": {
+        "palette": [
+          "#181612",
+          "#6e080b",
+          "#3a331f"
+        ],
+        "hue": 24.15,
+        "saturation": 0.381,
+        "brightness": 0.303,
+        "whiteness": 0.021,
+        "darkness": 0.524,
+        "family": "black",
+        "temperature": 0.08
+      }
+    },
+    {
+      "number": 45,
+      "id": "2015031481",
+      "title": "Me and the Birds",
+      "artist": "Duster",
+      "cover": "https://p2.music.126.net/0E9g0mflx2GXi-Y_BC5nTA==/109951168239701186.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2015031481",
+      "color": {
+        "palette": [
+          "#0b1d3e",
+          "#1a1617",
+          "#a9a8a9"
+        ],
+        "hue": 237.26,
+        "saturation": 0.539,
+        "brightness": 0.331,
+        "whiteness": 0.071,
+        "darkness": 0.17,
+        "family": "blue",
+        "temperature": 0.12
+      }
+    },
+    {
+      "number": 53,
+      "id": "20163335",
+      "title": "Paper Planes",
+      "artist": "M.I.A.",
+      "cover": "https://p2.music.126.net/Lff3gU2m_mUQPb39nfp4rA==/109951168708250700.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=20163335",
+      "color": {
+        "palette": [
+          "#325fac",
+          "#02a84f",
+          "#1c1b1b"
+        ],
+        "hue": 254.5,
+        "saturation": 0.442,
+        "brightness": 0.617,
+        "whiteness": 0.063,
+        "darkness": 0.081,
+        "family": "blue",
+        "temperature": 0.12
+      }
+    },
+    {
+      "number": 22,
+      "id": "19416114",
+      "title": "Following Through",
+      "artist": "The Dismemberment Plan",
+      "cover": "https://p1.music.126.net/5FQJEAhf7vEkTrnYtrdzMA==/109951166350043916.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19416114",
+      "color": {
+        "palette": [
+          "#85a9cb",
+          "#5986a6",
+          "#3a6992"
+        ],
+        "hue": 203.91,
+        "saturation": 0.453,
+        "brightness": 0.667,
+        "whiteness": 0.02,
+        "darkness": 0.0,
+        "family": "blue",
+        "temperature": 0.12
+      }
+    },
+    {
+      "number": 63,
+      "id": "2150458497",
+      "title": "So Lets Go! Nowhere",
+      "artist": "The Arrogant Sons Of Bitches",
+      "cover": "https://p2.music.126.net/ijX8YLfZwgQo_xhvVeLW1w==/109951169540934307.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2150458497",
+      "color": {
+        "palette": [
+          "#336ab1",
+          "#5684c3",
+          "#8da7d7"
+        ],
+        "hue": 216.5,
+        "saturation": 0.521,
+        "brightness": 0.768,
+        "whiteness": 0.067,
+        "darkness": 0.002,
+        "family": "blue",
+        "temperature": 0.12
+      }
+    },
+    {
+      "number": 47,
+      "id": "21809247",
+      "title": "New Slang",
+      "artist": "The Shins",
+      "cover": "https://p1.music.126.net/qSNKY_InYOeHZKjMa3j8bw==/109951163831956134.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=21809247",
+      "color": {
+        "palette": [
+          "#93b3ca",
+          "#bcceda",
+          "#dee3e5"
+        ],
+        "hue": 204.36,
+        "saturation": 0.248,
+        "brightness": 0.806,
+        "whiteness": 0.017,
+        "darkness": 0.0,
+        "family": "blue",
+        "temperature": 0.12
+      }
+    },
+    {
+      "number": 16,
+      "id": "27325932",
+      "title": "Do the Knife Fight",
+      "artist": "The Unicorns",
+      "cover": "https://p1.music.126.net/CUjTJQBAdDVLbq2bHBBPcQ==/5688873162198826.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=27325932",
+      "color": {
+        "palette": [
+          "#99cdfe",
+          "#0297fc",
+          "#fafaf9"
+        ],
+        "hue": 211.2,
+        "saturation": 0.425,
+        "brightness": 0.893,
+        "whiteness": 0.149,
+        "darkness": 0.022,
+        "family": "blue",
+        "temperature": 0.12
+      }
+    },
+    {
+      "number": 20,
+      "id": "19082712",
+      "title": "Farewell Transmission",
+      "artist": "Songs: Ohia",
+      "cover": "https://p1.music.126.net/o-CEfWFzWZYY5ANSBk99Xg==/2572857209011546.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19082712",
+      "color": {
+        "palette": [
+          "#121619",
+          "#4a3690",
+          "#faf9f6"
+        ],
+        "hue": 176.05,
+        "saturation": 0.251,
+        "brightness": 0.488,
+        "whiteness": 0.181,
+        "darkness": 0.335,
+        "family": "cyan",
+        "temperature": 0.22
+      }
+    },
+    {
+      "number": 9,
+      "id": "19080075",
+      "title": "Chicago",
+      "artist": "Sufjan Stevens",
+      "cover": "http://p1.music.126.net/tbM4lwZM_4rl37CvGGN-Uw==/109951163502604801.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19080075",
+      "color": {
+        "palette": [
+          "#313233",
+          "#385b6e",
+          "#537689"
+        ],
+        "hue": 175.32,
+        "saturation": 0.331,
+        "brightness": 0.517,
+        "whiteness": 0.0,
+        "darkness": 0.086,
+        "family": "cyan",
+        "temperature": 0.22
+      }
+    },
+    {
+      "number": 88,
+      "id": "19288288",
+      "title": "Where Damage Isn't Already Done",
+      "artist": "The Radio Dept.",
+      "cover": "https://p1.music.126.net/uxLuJ8x0tD_kWurUakgS_g==/109951167813892999.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19288288",
+      "color": {
+        "palette": [
+          "#1b1a19",
+          "#323b34",
+          "#526f54"
+        ],
+        "hue": 98.78,
+        "saturation": 0.238,
+        "brightness": 0.447,
+        "whiteness": 0.022,
+        "darkness": 0.273,
+        "family": "green",
+        "temperature": 0.34
+      }
+    },
+    {
+      "number": 64,
+      "id": "378120",
+      "title": "Song 1",
+      "artist": "闪闪闪闪",
+      "cover": "https://p1.music.126.net/LBZXmBLDu43Z04cDKru48A==/848822976643446.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=378120",
+      "color": {
+        "palette": [
+          "#8cac90",
+          "#a7bb9f",
+          "#020a01"
+        ],
+        "hue": 103.51,
+        "saturation": 0.404,
+        "brightness": 0.486,
+        "whiteness": 0.0,
+        "darkness": 0.18,
+        "family": "green",
+        "temperature": 0.34
+      }
+    },
+    {
+      "number": 49,
+      "id": "1499235",
+      "title": "Not Sport, Martial Art",
+      "artist": "Jim O'Rourke",
+      "cover": "https://p1.music.126.net/B2VAynxHsukSYnTzw_vsLw==/1768014697463823.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1499235",
+      "color": {
+        "palette": [
+          "#1c1720",
+          "#6cad89",
+          "#588c6d"
+        ],
+        "hue": 119.67,
+        "saturation": 0.345,
+        "brightness": 0.561,
+        "whiteness": 0.005,
+        "darkness": 0.141,
+        "family": "green",
+        "temperature": 0.34
+      }
+    },
+    {
+      "number": 13,
+      "id": "16846103",
+      "title": "Dayvan Cowboy",
+      "artist": "Boards of Canada",
+      "cover": "https://p1.music.126.net/aecAr_l39Poh4MM_6kKoyA==/109951163370763657.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16846103",
+      "color": {
+        "palette": [
+          "#88acad",
+          "#a8c5ae",
+          "#6e8e8d"
+        ],
+        "hue": 155.39,
+        "saturation": 0.224,
+        "brightness": 0.659,
+        "whiteness": 0.0,
+        "darkness": 0.0,
+        "family": "green",
+        "temperature": 0.34
+      }
+    },
+    {
+      "number": 75,
+      "id": "3584659",
+      "title": "The Moon",
+      "artist": "The Microphones",
+      "cover": "https://p1.music.126.net/Hc6lLD0oCl8UlZkmlO6z1A==/109951164826470718.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3584659",
+      "color": {
+        "palette": [
+          "#c4bd8e",
+          "#859487",
+          "#021c3a"
+        ],
+        "hue": 99.36,
+        "saturation": 0.235,
+        "brightness": 0.662,
+        "whiteness": 0.146,
+        "darkness": 0.022,
+        "family": "green",
+        "temperature": 0.34
+      }
+    },
+    {
+      "number": 27,
+      "id": "21974041",
+      "title": "Hard To Explain",
+      "artist": "The Strokes",
+      "cover": "https://p1.music.126.net/1O3c_sxpV5no0AEXiKRQsA==/109951170344012836.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=21974041",
+      "color": {
+        "palette": [
+          "#f2c243",
+          "#35888e",
+          "#216e72"
+        ],
+        "hue": 113.73,
+        "saturation": 0.588,
+        "brightness": 0.679,
+        "whiteness": 0.0,
+        "darkness": 0.0,
+        "family": "green",
+        "temperature": 0.34
+      }
+    },
+    {
+      "number": 30,
+      "id": "565646767",
+      "title": "Heartilation",
+      "artist": "AJJ",
+      "cover": "https://p1.music.126.net/z3qSKll8OCBw9_vAFEJVww==/109951169549148430.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=565646767",
+      "color": {
+        "palette": [
+          "#575757",
+          "#e8e8e8",
+          "#201c1c"
+        ],
+        "hue": 354.81,
+        "saturation": 0.018,
+        "brightness": 0.46,
+        "whiteness": 0.185,
+        "darkness": 0.118,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 23,
+      "id": "2699377058",
+      "title": "god bless the last words of an amateur historian",
+      "artist": "Johnny Foreigner",
+      "cover": "https://p2.music.126.net/TE9l39qZa90Zej8G7dJ7rA==/109951170915749140.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2699377058",
+      "color": {
+        "palette": [
+          "#383438",
+          "#575053",
+          "#746c6e"
+        ],
+        "hue": 353.27,
+        "saturation": 0.136,
+        "brightness": 0.463,
+        "whiteness": 0.035,
+        "darkness": 0.155,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 4,
+      "id": "16640371",
+      "title": "Archangel",
+      "artist": "Burial",
+      "cover": "http://p1.music.126.net/_Njm979PYMKy4x8xwd-nvQ==/777354720844883.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16640371",
+      "color": {
+        "palette": [
+          "#a9a9a9",
+          "#8b8b8b",
+          "#c3c3c3"
+        ],
+        "hue": 0.75,
+        "saturation": 0.001,
+        "brightness": 0.513,
+        "whiteness": 0.057,
+        "darkness": 0.19,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 98,
+      "id": "679153",
+      "title": "ワールドアパート",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "cover": "https://p2.music.126.net/Vj7kO_0wIZmgwVZjL_qAMQ==/109951167974799942.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=679153",
+      "color": {
+        "palette": [
+          "#fdfdfd",
+          "#1b1b1b",
+          "#373737"
+        ],
+        "hue": 1.62,
+        "saturation": 0.007,
+        "brightness": 0.557,
+        "whiteness": 0.351,
+        "darkness": 0.308,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 80,
+      "id": "1441595223",
+      "title": "This Lamb Sells Condos",
+      "artist": "Owen Pallett",
+      "cover": "https://p1.music.126.net/YXholD5AlTsLOCSGyKMDvA==/109951173521310726.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1441595223",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#1b1b1b",
+          "#373737"
+        ],
+        "hue": 0.0,
+        "saturation": 0.0,
+        "brightness": 0.569,
+        "whiteness": 0.369,
+        "darkness": 0.256,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 10,
+      "id": "16812660",
+      "title": "Corporeal",
+      "artist": "Broadcast",
+      "cover": "http://p1.music.126.net/wU65BCk_dFG1IF60xwAgqQ==/109951163370975825.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16812660",
+      "color": {
+        "palette": [
+          "#fdfdfd",
+          "#3c3c3c",
+          "#535353"
+        ],
+        "hue": 0.0,
+        "saturation": 0.0,
+        "brightness": 0.602,
+        "whiteness": 0.377,
+        "darkness": 0.071,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 89,
+      "id": "1881904211",
+      "title": "Who's Gonna Hold The Line",
+      "artist": "Tacoma Radar",
+      "cover": "https://p2.music.126.net/tHsmCHARMU8BG-d4Rfhw7w==/109951169776551606.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1881904211",
+      "color": {
+        "palette": [
+          "#aaa9a7",
+          "#c6c4c1",
+          "#8c8c8b"
+        ],
+        "hue": 31.14,
+        "saturation": 0.014,
+        "brightness": 0.612,
+        "whiteness": 0.014,
+        "darkness": 0.0,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 55,
+      "id": "3328826720",
+      "title": "Plays Pretty For Baby",
+      "artist": "Zolof the Rock & Roll Destroyer",
+      "cover": "https://p1.music.126.net/wP2FmG-f8fRv66RFgnnJEg==/109951172438869906.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3328826720",
+      "color": {
+        "palette": [
+          "#888487",
+          "#e1aac3",
+          "#db738b"
+        ],
+        "hue": 333.9,
+        "saturation": 0.113,
+        "brightness": 0.614,
+        "whiteness": 0.043,
+        "darkness": 0.0,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 95,
+      "id": "2208931",
+      "title": "25!",
+      "artist": "Bomb the Music Industry!",
+      "cover": "https://p2.music.126.net/H4D6HwJpAQ4ZsR-NmNdMbQ==/109951171969492694.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2208931",
+      "color": {
+        "palette": [
+          "#221f20",
+          "#fcfcfc",
+          "#e0dee2"
+        ],
+        "hue": 318.44,
+        "saturation": 0.103,
+        "brightness": 0.672,
+        "whiteness": 0.174,
+        "darkness": 0.173,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 66,
+      "id": "21893166",
+      "title": "Such Great Heights",
+      "artist": "The Postal Service",
+      "cover": "https://p1.music.126.net/uo1jdVFaX3D49gq2zAtByw==/109951163831894166.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=21893166",
+      "color": {
+        "palette": [
+          "#cbc8ca",
+          "#fefefd",
+          "#b1686c"
+        ],
+        "hue": 3.42,
+        "saturation": 0.158,
+        "brightness": 0.676,
+        "whiteness": 0.178,
+        "darkness": 0.005,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 3,
+      "id": "19827828",
+      "title": "Apistat Commander",
+      "artist": "Xiu Xiu",
+      "cover": "http://p1.music.126.net/0BzI3mstgIrejjWXBvZtpg==/109951163371432450.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19827828",
+      "color": {
+        "palette": [
+          "#dedfdd",
+          "#c4c8c5",
+          "#a5abae"
+        ],
+        "hue": 81.02,
+        "saturation": 0.133,
+        "brightness": 0.701,
+        "whiteness": 0.207,
+        "darkness": 0.047,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 1,
+      "id": "22498872",
+      "title": "All My Friends",
+      "artist": "LCD Soundsystem",
+      "cover": "http://p1.music.126.net/kGywe_uzSUBdcWRsqbtYIg==/109951167816081506.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=22498872",
+      "color": {
+        "palette": [
+          "#fcfcfc",
+          "#e7e6e3",
+          "#898776"
+        ],
+        "hue": 36.64,
+        "saturation": 0.068,
+        "brightness": 0.772,
+        "whiteness": 0.449,
+        "darkness": 0.017,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 41,
+      "id": "17566226",
+      "title": "L.A.",
+      "artist": "Elliott Smith",
+      "cover": "https://p2.music.126.net/uMF-3Qk1YKj44jFfPcHfpQ==/109951167575476107.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=17566226",
+      "color": {
+        "palette": [
+          "#fdfcfa",
+          "#e3dce5",
+          "#cbc3d6"
+        ],
+        "hue": 330.75,
+        "saturation": 0.145,
+        "brightness": 0.776,
+        "whiteness": 0.426,
+        "darkness": 0.083,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 65,
+      "id": "18689800",
+      "title": "Spectacular Views",
+      "artist": "Rilo Kiley",
+      "cover": "https://p2.music.126.net/bzpXQz0wtMq9CKoVRZWBgg==/109951170453098718.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=18689800",
+      "color": {
+        "palette": [
+          "#cfc8dc",
+          "#f1f0ec",
+          "#f3d8ca"
+        ],
+        "hue": 285.66,
+        "saturation": 0.094,
+        "brightness": 0.777,
+        "whiteness": 0.117,
+        "darkness": 0.025,
+        "family": "neutral",
+        "temperature": 0.48
+      }
+    },
+    {
+      "number": 59,
+      "id": "3130674",
+      "title": "Raid",
+      "artist": "Madvillain / MF DOOM / Madlib / MED",
+      "cover": "https://p2.music.126.net/vh8Iq9UgaJb_36xzrSGhWw==/109951163353416856.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3130674",
+      "color": {
+        "palette": [
+          "#e5e5e5",
+          "#131313",
+          "#373737"
+        ],
+        "hue": 0.36,
+        "saturation": 0.014,
+        "brightness": 0.596,
+        "whiteness": 0.491,
+        "darkness": 0.282,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 48,
+      "id": "3229662",
+      "title": "Non Photo-Blue",
+      "artist": "Pinback",
+      "cover": "https://p2.music.126.net/M4n9s5PsMRqurqG0DK6qaQ==/109951163472608825.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3229662",
+      "color": {
+        "palette": [
+          "#fffffe",
+          "#aea190",
+          "#020b04"
+        ],
+        "hue": 30.87,
+        "saturation": 0.156,
+        "brightness": 0.727,
+        "whiteness": 0.509,
+        "darkness": 0.165,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 92,
+      "id": "3566832",
+      "title": "Young Adult Friction",
+      "artist": "The Pains of Being Pure at Heart",
+      "cover": "https://p1.music.126.net/fw9NohNutlZuQx4PbnWbfw==/109951163352212340.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3566832",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#1b1b1b",
+          "#e1e1e1"
+        ],
+        "hue": 0.0,
+        "saturation": 0.0,
+        "brightness": 0.792,
+        "whiteness": 0.664,
+        "darkness": 0.099,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 58,
+      "id": "22769455",
+      "title": "青い、濃い、橙色の日",
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "cover": "https://p1.music.126.net/NTrE3k1Tl-Cxz7hqQV9h_Q==/109951166160220985.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=22769455",
+      "color": {
+        "palette": [
+          "#fdfdfd",
+          "#e2e1e1",
+          "#c5c5c5"
+        ],
+        "hue": 356.31,
+        "saturation": 0.046,
+        "brightness": 0.796,
+        "whiteness": 0.654,
+        "darkness": 0.097,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 69,
+      "id": "16332921",
+      "title": "That's Us/Wild Combination",
+      "artist": "Arthur Russell",
+      "cover": "https://p2.music.126.net/pnS8bLWakhXL-F5kNW7RJw==/109951163360038467.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16332921",
+      "color": {
+        "palette": [
+          "#ffffff",
+          "#e3e2e5",
+          "#6d3532"
+        ],
+        "hue": 1.6,
+        "saturation": 0.098,
+        "brightness": 0.885,
+        "whiteness": 0.744,
+        "darkness": 0.008,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 87,
+      "id": "1475536119",
+      "title": "Where Are You",
+      "artist": "I Am Disaster",
+      "cover": "https://p2.music.126.net/vG-gAhuGry4Kz0L0XPS-bg==/109951165286966338.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1475536119",
+      "color": {
+        "palette": [
+          "#f4e8dd",
+          "#fdfcfa",
+          "#380404"
+        ],
+        "hue": 28.12,
+        "saturation": 0.138,
+        "brightness": 0.911,
+        "whiteness": 0.878,
+        "darkness": 0.016,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 28,
+      "id": "18374111",
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "cover": "https://p1.music.126.net/JGgmT5IS_aDzSJCNhCAXdw==/109951165962913492.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=18374111",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#e3e2e1",
+          "#c8c5c4"
+        ],
+        "hue": 4.87,
+        "saturation": 0.027,
+        "brightness": 0.915,
+        "whiteness": 0.803,
+        "darkness": 0.034,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 26,
+      "id": "1817009969",
+      "title": "Goodnight and Go",
+      "artist": "Imogen Heap",
+      "cover": "https://p1.music.126.net/6lZCtd6_bIHM6bVhiA6qHQ==/109951170269340352.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1817009969",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#e2e1e0",
+          "#a9a9a7"
+        ],
+        "hue": 13.8,
+        "saturation": 0.021,
+        "brightness": 0.917,
+        "whiteness": 0.799,
+        "darkness": 0.041,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 37,
+      "id": "862540449",
+      "title": "Incoherent Love Songs",
+      "artist": "P.S. Eliot",
+      "cover": "https://p1.music.126.net/7Ec0YqTBkd6J3Q8I5k46-g==/109951163373301275.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=862540449",
+      "color": {
+        "palette": [
+          "#fae8df",
+          "#c9c5c3",
+          "#ada7a4"
+        ],
+        "hue": 18.38,
+        "saturation": 0.077,
+        "brightness": 0.933,
+        "whiteness": 0.863,
+        "darkness": 0.004,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 79,
+      "id": "2894456",
+      "title": "This Day Next Year",
+      "artist": "Karate",
+      "cover": "https://p2.music.126.net/4NwDfD7n5RKxdsEFkeI46g==/109951166072945264.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2894456",
+      "color": {
+        "palette": [
+          "#fefdf8",
+          "#e2e5e3",
+          "#c1c7c6"
+        ],
+        "hue": 50.51,
+        "saturation": 0.075,
+        "brightness": 0.944,
+        "whiteness": 0.861,
+        "darkness": 0.014,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 12,
+      "id": "19138440",
+      "title": "Darkness",
+      "artist": "Sweet Trip",
+      "cover": "https://p1.music.126.net/ReD1kJfqP3nxhkgwb2YTjg==/109951164703361208.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19138440",
+      "color": {
+        "palette": [
+          "#fefffc",
+          "#e1e0dd",
+          "#c8c7c4"
+        ],
+        "hue": 53.87,
+        "saturation": 0.012,
+        "brightness": 0.958,
+        "whiteness": 0.893,
+        "darkness": 0.0,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 81,
+      "id": "16884107",
+      "title": "This Modern Love",
+      "artist": "Bloc Party",
+      "cover": "https://p2.music.126.net/I8Nw3SpV6VK99DPUPxyrTA==/109951163702049960.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16884107",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#e7e2df",
+          "#d5cdc8"
+        ],
+        "hue": 6.41,
+        "saturation": 0.01,
+        "brightness": 0.975,
+        "whiteness": 0.942,
+        "darkness": 0.001,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 78,
+      "id": "3316788540",
+      "title": "The World's Not Over",
+      "artist": "jenny01",
+      "cover": "https://p2.music.126.net/-HoOZ3Xk72tyyKT0nx3iAA==/109951172266941297.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3316788540",
+      "color": {
+        "palette": [
+          "#fcfbf7",
+          "#f51b22",
+          "#f5c5c5"
+        ],
+        "hue": 33.04,
+        "saturation": 0.226,
+        "brightness": 0.978,
+        "whiteness": 0.663,
+        "darkness": 0.0,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 15,
+      "id": "2420765",
+      "title": "Digital Bath",
+      "artist": "Deftones",
+      "cover": "https://p1.music.126.net/805U5Ek4T5W9JzICT7Mtdg==/18276082277462361.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2420765",
+      "color": {
+        "palette": [
+          "#ffffff",
+          "#c4c4c4",
+          "#dfdfdf"
+        ],
+        "hue": 0.0,
+        "saturation": 0.0,
+        "brightness": 0.99,
+        "whiteness": 0.97,
+        "darkness": 0.0,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 74,
+      "id": "4346620",
+      "title": "The Mess Inside",
+      "artist": "The Mountain Goats",
+      "cover": "https://p2.music.126.net/DXpu138kXKBgho3dKVQDJA==/2548667953186082.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=4346620",
+      "color": {
+        "palette": [
+          "#fffffe",
+          "#e1e3e4",
+          "#faedcb"
+        ],
+        "hue": 5.59,
+        "saturation": 0.007,
+        "brightness": 0.994,
+        "whiteness": 0.98,
+        "darkness": 0.0,
+        "family": "white",
+        "temperature": 0.5
+      }
+    },
+    {
+      "number": 8,
+      "id": "535751706",
+      "title": "Can Dialectics Break Bricks?",
+      "artist": "Shinobu",
+      "cover": "http://p1.music.126.net/--Cv9cArf1dFG0dVA2jmiQ==/109951169673696183.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=535751706",
+      "color": {
+        "palette": [
+          "#728e50",
+          "#6a753a",
+          "#88ad6e"
+        ],
+        "hue": 78.92,
+        "saturation": 0.437,
+        "brightness": 0.533,
+        "whiteness": 0.034,
+        "darkness": 0.001,
+        "family": "yellow",
+        "temperature": 0.72
+      }
+    },
+    {
+      "number": 93,
+      "id": "1878576191",
+      "title": ".44 Caliber Love Letter",
+      "artist": "Alexisonfire",
+      "cover": "https://p1.music.126.net/hYfhZYRKybDlqhgdxjZAQw==/109951166415286456.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1878576191",
+      "color": {
+        "palette": [
+          "#034603",
+          "#dccac5",
+          "#f2e3de"
+        ],
+        "hue": 93.38,
+        "saturation": 0.492,
+        "brightness": 0.581,
+        "whiteness": 0.161,
+        "darkness": 0.042,
+        "family": "yellow",
+        "temperature": 0.72
+      }
+    },
+    {
+      "number": 7,
+      "id": "1425757324",
+      "title": "Born Again So Many Times You Forget You Are",
+      "artist": "The Brave Little Abacus",
+      "cover": "http://p1.music.126.net/-BTwhIanCnaT_QvUPHgOPw==/109951164738070959.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1425757324",
+      "color": {
+        "palette": [
+          "#fffffe",
+          "#212114",
+          "#e1c33d"
+        ],
+        "hue": 58.35,
+        "saturation": 0.363,
+        "brightness": 0.663,
+        "whiteness": 0.252,
+        "darkness": 0.101,
+        "family": "yellow",
+        "temperature": 0.72
+      }
+    },
+    {
+      "number": 33,
+      "id": "21881140",
+      "title": "Hopeless",
+      "artist": "The Wrens",
+      "cover": "https://p2.music.126.net/T3-R1-kuHcPM5Inm-Q2XrA==/109951167528980797.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=21881140",
+      "color": {
+        "palette": [
+          "#191b0a",
+          "#6e5432",
+          "#553819"
+        ],
+        "hue": 45.85,
+        "saturation": 0.571,
+        "brightness": 0.348,
+        "whiteness": 0.0,
+        "darkness": 0.281,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 6,
+      "id": "4108061",
+      "title": "Bloodhail",
+      "artist": "Have a Nice Life",
+      "cover": "http://p1.music.126.net/flDy8HIcfK4lweknNP3nhQ==/109951172209171331.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=4108061",
+      "color": {
+        "palette": [
+          "#1d1b17",
+          "#383931",
+          "#6f5338"
+        ],
+        "hue": 36.53,
+        "saturation": 0.348,
+        "brightness": 0.371,
+        "whiteness": 0.012,
+        "darkness": 0.43,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 44,
+      "id": "2308818",
+      "title": "Lloyd, I'm Ready To Be Heartbroken",
+      "artist": "Camera Obscura",
+      "cover": "https://p1.music.126.net/A5c7dFusGSp36bLtQ1eT-Q==/109951172184119401.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2308818",
+      "color": {
+        "palette": [
+          "#54706b",
+          "#c2a78e",
+          "#a68b75"
+        ],
+        "hue": 35.39,
+        "saturation": 0.361,
+        "brightness": 0.525,
+        "whiteness": 0.0,
+        "darkness": 0.09,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 77,
+      "id": "2051100",
+      "title": "The Universe Is Going to Catch You",
+      "artist": "The Antlers",
+      "cover": "https://p1.music.126.net/A9OqkdGf0VIO8OczvZVerA==/6638851208734001.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2051100",
+      "color": {
+        "palette": [
+          "#928674",
+          "#aa9f8e",
+          "#856e5b"
+        ],
+        "hue": 37.05,
+        "saturation": 0.227,
+        "brightness": 0.572,
+        "whiteness": 0.0,
+        "darkness": 0.002,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 50,
+      "id": "1009961",
+      "title": "One Armed Scissor",
+      "artist": "At the Drive-In",
+      "cover": "https://p1.music.126.net/-bHcr-Ex5NaJ1LKG7fszrQ==/109951168525674750.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1009961",
+      "color": {
+        "palette": [
+          "#191816",
+          "#e6c15b",
+          "#ca8b3c"
+        ],
+        "hue": 39.46,
+        "saturation": 0.487,
+        "brightness": 0.58,
+        "whiteness": 0.017,
+        "darkness": 0.241,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 82,
+      "id": "19534133",
+      "title": "This Year",
+      "artist": "The Mountain Goats",
+      "cover": "https://p2.music.126.net/W9gGMyEuauCznVoPgMsubw==/16657601161222420.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19534133",
+      "color": {
+        "palette": [
+          "#ffffff",
+          "#8b8f75",
+          "#706e54"
+        ],
+        "hue": 40.18,
+        "saturation": 0.23,
+        "brightness": 0.602,
+        "whiteness": 0.235,
+        "darkness": 0.117,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 34,
+      "id": "20720470",
+      "title": "I am trying to break your heart",
+      "artist": "Wilco",
+      "cover": "https://p2.music.126.net/m5wcIy5GPDku9FgmoFDHHA==/109951165437452441.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=20720470",
+      "color": {
+        "palette": [
+          "#cdb697",
+          "#574e3f",
+          "#40392e"
+        ],
+        "hue": 35.37,
+        "saturation": 0.268,
+        "brightness": 0.662,
+        "whiteness": 0.0,
+        "darkness": 0.056,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 83,
+      "id": "16851248",
+      "title": "Train Under Water",
+      "artist": "Bright Eyes",
+      "cover": "https://p1.music.126.net/wnWJnUQT9F64P8JfAhr3xg==/109951165990064749.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16851248",
+      "color": {
+        "palette": [
+          "#e7d7bf",
+          "#a28d70",
+          "#8b7355"
+        ],
+        "hue": 35.0,
+        "saturation": 0.296,
+        "brightness": 0.666,
+        "whiteness": 0.037,
+        "darkness": 0.0,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 24,
+      "id": "17562927",
+      "title": "Gone Under Sea",
+      "artist": "Electrelane",
+      "cover": "https://p1.music.126.net/nr350v9C6W2fwhrQy59txQ==/109951168981967597.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=17562927",
+      "color": {
+        "palette": [
+          "#c0a55b",
+          "#56523e",
+          "#ac8a43"
+        ],
+        "hue": 44.72,
+        "saturation": 0.493,
+        "brightness": 0.677,
+        "whiteness": 0.0,
+        "darkness": 0.0,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 54,
+      "id": "2776981",
+      "title": "Peach, Plum, Pear",
+      "artist": "Joanna Newsom",
+      "cover": "https://p1.music.126.net/b44NaDSZfscWA5MMsCebHA==/109951163371425817.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2776981",
+      "color": {
+        "palette": [
+          "#e0c372",
+          "#ac863d",
+          "#c5ab6e"
+        ],
+        "hue": 36.64,
+        "saturation": 0.431,
+        "brightness": 0.692,
+        "whiteness": 0.015,
+        "darkness": 0.005,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 76,
+      "id": "16493922",
+      "title": "The Purple Bottle",
+      "artist": "Animal Collective",
+      "cover": "https://p2.music.126.net/WnkEBbhxfJO1KszJwfYQTA==/764160581311696.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16493922",
+      "color": {
+        "palette": [
+          "#ddcaa6",
+          "#c4ae8a",
+          "#aaa472"
+        ],
+        "hue": 45.8,
+        "saturation": 0.325,
+        "brightness": 0.695,
+        "whiteness": 0.0,
+        "darkness": 0.0,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 61,
+      "id": "1978975933",
+      "title": "Retrace",
+      "artist": "Ee",
+      "cover": "https://p1.music.126.net/vNFyOee0RpQBC56aaOiUGQ==/109951167850915115.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1978975933",
+      "color": {
+        "palette": [
+          "#fffffb",
+          "#3f5394",
+          "#6f5635"
+        ],
+        "hue": 45.65,
+        "saturation": 0.318,
+        "brightness": 0.71,
+        "whiteness": 0.381,
+        "darkness": 0.013,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 32,
+      "id": "2021581520",
+      "title": "Hooray For Humans",
+      "artist": "Q and Not U",
+      "cover": "https://p1.music.126.net/w0G-pRrRvzBGXGrQw75iTA==/109951168301168000.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2021581520",
+      "color": {
+        "palette": [
+          "#edf28e",
+          "#383435",
+          "#e6e5e2"
+        ],
+        "hue": 35.92,
+        "saturation": 0.289,
+        "brightness": 0.728,
+        "whiteness": 0.056,
+        "darkness": 0.065,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 94,
+      "id": "551717045",
+      "title": "1996",
+      "artist": "The Unlovables",
+      "cover": "https://p1.music.126.net/QrjbZLNAHjca3R21gpfs4Q==/109951164702245412.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=551717045",
+      "color": {
+        "palette": [
+          "#f6eac0",
+          "#3e3635",
+          "#c2371f"
+        ],
+        "hue": 26.55,
+        "saturation": 0.442,
+        "brightness": 0.736,
+        "whiteness": 0.054,
+        "darkness": 0.005,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 57,
+      "id": "549976896",
+      "title": "Pray for Rain",
+      "artist": "The Ergs!",
+      "cover": "https://p1.music.126.net/v1pwrzni3AXLuOa-TF2Jsg==/109951164663242207.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=549976896",
+      "color": {
+        "palette": [
+          "#feeb01",
+          "#0194d9",
+          "#d40c14"
+        ],
+        "hue": 28.08,
+        "saturation": 0.844,
+        "brightness": 0.786,
+        "whiteness": 0.026,
+        "darkness": 0.023,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 56,
+      "id": "19423188",
+      "title": "Plea From A Cat Named Virtute",
+      "artist": "The Weakerthans",
+      "cover": "https://p1.music.126.net/_evBr6JJd2yIfNBWgsUfdA==/6650945837034759.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19423188",
+      "color": {
+        "palette": [
+          "#f9e9cd",
+          "#735439",
+          "#8e7150"
+        ],
+        "hue": 35.1,
+        "saturation": 0.272,
+        "brightness": 0.799,
+        "whiteness": 0.002,
+        "darkness": 0.015,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 19,
+      "id": "987949",
+      "title": "Fake Palindromes",
+      "artist": "Andrew Bird",
+      "cover": "https://p1.music.126.net/3rxpVKCtRUDcc6ih3M17Lg==/109951170052988683.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=987949",
+      "color": {
+        "palette": [
+          "#faad1c",
+          "#e25451",
+          "#e64b25"
+        ],
+        "hue": 25.96,
+        "saturation": 0.754,
+        "brightness": 0.88,
+        "whiteness": 0.0,
+        "darkness": 0.0,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 99,
+      "id": "1880112053",
+      "title": "(Inhaling Fumes)",
+      "artist": "Nymb",
+      "cover": "https://p2.music.126.net/x6PR2gM-DYb8lmh_LqfFcg==/109951169930365019.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1880112053",
+      "color": {
+        "palette": [
+          "#ffe1bb",
+          "#e3ac90",
+          "#c86a5a"
+        ],
+        "hue": 33.48,
+        "saturation": 0.267,
+        "brightness": 0.999,
+        "whiteness": 0.0,
+        "darkness": 0.0,
+        "family": "orange",
+        "temperature": 0.84
+      }
+    },
+    {
+      "number": 29,
+      "id": "18969083",
+      "title": "Heard 'Em Say",
+      "artist": "Kanye West / Adam Levine",
+      "cover": "https://p1.music.126.net/M4s782utwaMBIDmt0UOvEA==/109951170517268501.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=18969083",
+      "color": {
+        "palette": [
+          "#190606",
+          "#373021",
+          "#4f220a"
+        ],
+        "hue": 22.93,
+        "saturation": 0.539,
+        "brightness": 0.286,
+        "whiteness": 0.009,
+        "darkness": 0.428,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 17,
+      "id": "17088786",
+      "title": "Drunk w/ the Only Saints I Know",
+      "artist": "Carissa's Wierd",
+      "cover": "https://p1.music.126.net/Wjnz0IwYP29ldvRtgjN_ng==/109951173485477871.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=17088786",
+      "color": {
+        "palette": [
+          "#482126",
+          "#c5dce3",
+          "#545655"
+        ],
+        "hue": 349.48,
+        "saturation": 0.478,
+        "brightness": 0.329,
+        "whiteness": 0.019,
+        "darkness": 0.001,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 11,
+      "id": "2776934",
+      "title": "Cosmia",
+      "artist": "Joanna Newsom",
+      "cover": "https://p1.music.126.net/kgxKsOlE2Vp3msEfvYQIVw==/109951170216843346.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2776934",
+      "color": {
+        "palette": [
+          "#502220",
+          "#1c181b",
+          "#3a3733"
+        ],
+        "hue": 4.49,
+        "saturation": 0.344,
+        "brightness": 0.345,
+        "whiteness": 0.002,
+        "darkness": 0.232,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 36,
+      "id": "19188862",
+      "title": "Incinerate",
+      "artist": "Sonic Youth",
+      "cover": "https://p1.music.126.net/4cNDDmjqZ3BlH2GFLHruIw==/109951165134194419.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19188862",
+      "color": {
+        "palette": [
+          "#a8282d",
+          "#080a09",
+          "#6f1f24"
+        ],
+        "hue": 356.28,
+        "saturation": 0.599,
+        "brightness": 0.405,
+        "whiteness": 0.0,
+        "darkness": 0.307,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 71,
+      "id": "19418961",
+      "title": "The Con",
+      "artist": "Tegan and Sara",
+      "cover": "https://p1.music.126.net/N_C5qkf6yXpStmEvUVoWmw==/109951164148661730.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19418961",
+      "color": {
+        "palette": [
+          "#160806",
+          "#ccbba5",
+          "#b0a08d"
+        ],
+        "hue": 22.89,
+        "saturation": 0.415,
+        "brightness": 0.484,
+        "whiteness": 0.0,
+        "darkness": 0.377,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 85,
+      "id": "3313682",
+      "title": "Us",
+      "artist": "Regina Spektor",
+      "cover": "https://p1.music.126.net/Vlfzcmb8MSJcb1NGWEN5mA==/109951164016014021.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3313682",
+      "color": {
+        "palette": [
+          "#21171b",
+          "#e4e4e1",
+          "#3c3335"
+        ],
+        "hue": 9.84,
+        "saturation": 0.341,
+        "brightness": 0.524,
+        "whiteness": 0.113,
+        "darkness": 0.195,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 70,
+      "id": "18840098",
+      "title": "The Coast Was Always Clear",
+      "artist": "Johnny Foreigner",
+      "cover": "https://p2.music.126.net/abM9d9UZ3kYH5BRfgYcGXA==/109951164839261299.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=18840098",
+      "color": {
+        "palette": [
+          "#fefcfc",
+          "#1e1b17",
+          "#393934"
+        ],
+        "hue": 19.84,
+        "saturation": 0.253,
+        "brightness": 0.537,
+        "whiteness": 0.257,
+        "darkness": 0.213,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 21,
+      "id": "16493940",
+      "title": "Fireworks",
+      "artist": "Animal Collective",
+      "cover": "https://p2.music.126.net/ISXduKMlGHeiTQXuufn3tg==/109951163392691230.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16493940",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#1f1617",
+          "#543639"
+        ],
+        "hue": 1.99,
+        "saturation": 0.371,
+        "brightness": 0.55,
+        "whiteness": 0.167,
+        "darkness": 0.123,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 60,
+      "id": "21127283",
+      "title": "Rapp Snitch Knishes (feat. Mr. Fantastik)",
+      "artist": "MF DOOM / Mr. Fantastik",
+      "cover": "https://p1.music.126.net/Ov_hW2wEuDFcBpsbIYhJYA==/109951165915508958.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=21127283",
+      "color": {
+        "palette": [
+          "#e6dcc7",
+          "#3e554f",
+          "#171a23"
+        ],
+        "hue": 359.31,
+        "saturation": 0.271,
+        "brightness": 0.554,
+        "whiteness": 0.025,
+        "darkness": 0.143,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 67,
+      "id": "16624345",
+      "title": "Sweet Dreams, Sweet Cheeks",
+      "artist": "Los Campesinos!",
+      "cover": "https://p1.music.126.net/2k6i8TxMq9v-fHkw6-4HUA==/109951171508051266.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16624345",
+      "color": {
+        "palette": [
+          "#e2e2e2",
+          "#b01317",
+          "#430815"
+        ],
+        "hue": 359.81,
+        "saturation": 0.406,
+        "brightness": 0.606,
+        "whiteness": 0.319,
+        "darkness": 0.087,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 31,
+      "id": "5039493",
+      "title": "Hellhole Ratrace",
+      "artist": "Girls",
+      "cover": "https://p1.music.126.net/mydd3rifrZMjgy3sNajsig==/6655343883648852.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=5039493",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#533e31",
+          "#70523b"
+        ],
+        "hue": 22.77,
+        "saturation": 0.297,
+        "brightness": 0.609,
+        "whiteness": 0.273,
+        "darkness": 0.054,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 51,
+      "id": "3563157",
+      "title": "One With the Freaks",
+      "artist": "The Notwist",
+      "cover": "https://p2.music.126.net/fvthnZWWkV0ajgH7Zmv3ng==/1730631302126902.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3563157",
+      "color": {
+        "palette": [
+          "#ab1f12",
+          "#1d0707",
+          "#731511"
+        ],
+        "hue": 4.91,
+        "saturation": 0.891,
+        "brightness": 0.653,
+        "whiteness": 0.0,
+        "darkness": 0.017,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 97,
+      "id": "16779844",
+      "title": "7/4 Shoreline",
+      "artist": "Broken Social Scene",
+      "cover": "https://p2.music.126.net/SweWwugEDHnLmgDIXNHj2Q==/109951163338639814.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16779844",
+      "color": {
+        "palette": [
+          "#1d1c1b",
+          "#c86e51",
+          "#e4e2dd"
+        ],
+        "hue": 18.24,
+        "saturation": 0.369,
+        "brightness": 0.667,
+        "whiteness": 0.086,
+        "darkness": 0.101,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 43,
+      "id": "19574747",
+      "title": "Letter From An Occupant",
+      "artist": "The New Pornographers",
+      "cover": "https://p2.music.126.net/ZLWaPDJlp5tzHmyP0Y6xVA==/109951168981972697.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19574747",
+      "color": {
+        "palette": [
+          "#b3082c",
+          "#746c50",
+          "#fad597"
+        ],
+        "hue": 8.19,
+        "saturation": 0.656,
+        "brightness": 0.67,
+        "whiteness": 0.0,
+        "darkness": 0.001,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 90,
+      "id": "2109639884",
+      "title": "Wisconsin",
+      "artist": "Natural Snow Buildings",
+      "cover": "https://p2.music.126.net/UWEXsObhWt15gKUhHKQDOw==/109951169172070306.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=2109639884",
+      "color": {
+        "palette": [
+          "#faf9f6",
+          "#a02535",
+          "#333134"
+        ],
+        "hue": 357.42,
+        "saturation": 0.236,
+        "brightness": 0.67,
+        "whiteness": 0.318,
+        "darkness": 0.121,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 46,
+      "id": "3883276",
+      "title": "Neighborhood #1 (Tunnels)",
+      "artist": "Arcade Fire",
+      "cover": "https://p2.music.126.net/LF4AavogNozaT-FGFbluQA==/17887954672527703.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3883276",
+      "color": {
+        "palette": [
+          "#daa175",
+          "#3d303e",
+          "#8b6f55"
+        ],
+        "hue": 19.2,
+        "saturation": 0.369,
+        "brightness": 0.699,
+        "whiteness": 0.017,
+        "darkness": 0.044,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 84,
+      "id": "19814948",
+      "title": "Transdermal Celebration",
+      "artist": "Ween",
+      "cover": "https://p2.music.126.net/rRepL-ROvXToU98dIbpttw==/109951173192444882.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19814948",
+      "color": {
+        "palette": [
+          "#d65f39",
+          "#ecdbd4",
+          "#cd5b7c"
+        ],
+        "hue": 17.41,
+        "saturation": 0.492,
+        "brightness": 0.741,
+        "whiteness": 0.054,
+        "darkness": 0.011,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 35,
+      "id": "1970326427",
+      "title": "I Can See the Radio Wave",
+      "artist": "Boat",
+      "cover": "https://p2.music.126.net/JaTtLzGtRlZ1U_qoEcg1LQ==/109951167756576526.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=1970326427",
+      "color": {
+        "palette": [
+          "#f1e3df",
+          "#ac317b",
+          "#ffffff"
+        ],
+        "hue": 2.03,
+        "saturation": 0.321,
+        "brightness": 0.762,
+        "whiteness": 0.303,
+        "darkness": 0.019,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 42,
+      "id": "3579547",
+      "title": "Ladyflash",
+      "artist": "The Go! Team",
+      "cover": "https://p2.music.126.net/XPMR94nt2QCvn_ppnADUMA==/109951163392875960.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=3579547",
+      "color": {
+        "palette": [
+          "#fd6959",
+          "#fef935",
+          "#1b0607"
+        ],
+        "hue": 14.08,
+        "saturation": 0.727,
+        "brightness": 0.77,
+        "whiteness": 0.0,
+        "darkness": 0.1,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 72,
+      "id": "566566914",
+      "title": "The Heart Is A Lonely Hunter",
+      "artist": "The Anniversary",
+      "cover": "https://p2.music.126.net/jmNsKJuAXum1VSW7Nky-KQ==/109951172621364070.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=566566914",
+      "color": {
+        "palette": [
+          "#ea1a22",
+          "#9edffb",
+          "#fefefe"
+        ],
+        "hue": 9.19,
+        "saturation": 0.563,
+        "brightness": 0.784,
+        "whiteness": 0.083,
+        "darkness": 0.025,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 86,
+      "id": "16343199",
+      "title": "Walkabout",
+      "artist": "Atlas Sound",
+      "cover": "https://p2.music.126.net/IaplEEsX8MG5j0jgiwSpnw==/16641108486810306.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16343199",
+      "color": {
+        "palette": [
+          "#fefbf9",
+          "#fbe1df",
+          "#a53524"
+        ],
+        "hue": 7.09,
+        "saturation": 0.408,
+        "brightness": 0.819,
+        "whiteness": 0.224,
+        "darkness": 0.0,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 38,
+      "id": "16846158",
+      "title": "Julie And Candy",
+      "artist": "Boards of Canada",
+      "cover": "https://p1.music.126.net/wAaabcSBzoXpTejzmDAgsw==/109951163370948937.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=16846158",
+      "color": {
+        "palette": [
+          "#c22127",
+          "#e0362d",
+          "#f8712e"
+        ],
+        "hue": 7.5,
+        "saturation": 0.815,
+        "brightness": 0.839,
+        "whiteness": 0.0,
+        "darkness": 0.0,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 52,
+      "id": "19711224",
+      "title": "Oxford Comma",
+      "artist": "Vampire Weekend",
+      "cover": "https://p2.music.126.net/RgAsCZSr6R0KcUU4IkA2aQ==/109951167959970637.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=19711224",
+      "color": {
+        "palette": [
+          "#fefefe",
+          "#c47431",
+          "#facac0"
+        ],
+        "hue": 21.16,
+        "saturation": 0.501,
+        "brightness": 0.858,
+        "whiteness": 0.207,
+        "darkness": 0.0,
+        "family": "red",
+        "temperature": 0.95
+      }
+    },
+    {
+      "number": 91,
+      "id": "357629",
+      "title": "我有我的小太阳",
+      "artist": "坏女儿",
+      "cover": "https://p1.music.126.net/2AebP6ORJk_u_sYf3PbhSg==/65970697681315.jpg?param=640y640",
+      "url": "https://music.163.com/#/song?id=357629",
+      "color": {
+        "palette": [
+          "#f6853a",
+          "#e5e3e7",
+          "#dd0b24"
+        ],
+        "hue": 19.97,
+        "saturation": 0.734,
+        "brightness": 0.918,
+        "whiteness": 0.034,
+        "darkness": 0.0,
+        "family": "red",
+        "temperature": 0.95
+      }
+    }
+  ]
+}
