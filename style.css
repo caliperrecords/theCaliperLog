@@ -510,10 +510,12 @@ nav a:focus-visible::after {
 
 .spectrum-stage {
   aspect-ratio: 1;
+  width: min(100%, 1040px);
+  margin-inline: auto;
   position: relative;
   overflow: hidden;
   color: var(--spectrum-ink);
-  background: #080909;
+  background: #050606;
   isolation: isolate;
 }
 
@@ -560,7 +562,7 @@ nav a:focus-visible::after {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: #080909;
+  background: transparent;
 }
 
 .spectrum-tile img {
@@ -569,7 +571,7 @@ nav a:focus-visible::after {
   display: block;
   object-fit: cover;
   border-radius: 0;
-  filter: saturate(.96) contrast(1.02);
+  filter: none;
 }
 
 .about-grid {

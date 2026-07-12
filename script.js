@@ -83,39 +83,74 @@ const clamp = (value, min, max) => Math.min(max, Math.max(min, value));
 
 const colorMetrics = (track) => {
   const color = track.color ?? {};
-  const temperature = clamp(Number(color.temperature ?? 0.5), 0, 1);
+  const hue = Number(color.hue ?? 0);
   const brightness = clamp(Number(color.brightness ?? 0.5), 0, 1);
+  const saturation = clamp(Number(color.saturation ?? 0), 0, 1);
   const whiteness = clamp(Number(color.whiteness ?? 0), 0, 1);
   const darkness = clamp(Number(color.darkness ?? 0), 0, 1);
-  const lightness = clamp((brightness * 0.7) + (whiteness * 0.38) - (darkness * 0.62), 0, 1);
-  return { temperature, brightness, whiteness, darkness, lightness };
+  const achromatic = clamp(whiteness * 1.25 + (1 - saturation) * 0.35, 0, 1);
+  const lightness = clamp((brightness * 0.74) + (whiteness * 0.36) - (darkness * 0.58), 0, 1);
+
+  let temperature = Number(track.color?.temperature ?? 0.5);
+  if (saturation > 0.1 && whiteness < 0.52) {
+    if (hue >= 185 && hue <= 260) temperature = 0.08 + ((260 - hue) / 75) * 0.1;
+    else if (hue >= 150 && hue < 185) temperature = 0.22;
+    else if (hue >= 85 && hue < 150) temperature = 0.34;
+    else if (hue >= 50 && hue < 85) temperature = 0.62;
+    else if (hue >= 25 && hue < 50) temperature = 0.8;
+    else if (hue < 25 || hue >= 340) temperature = 0.94;
+    else if (hue >= 260 && hue < 340) temperature = 0.14 + ((hue - 260) / 80) * 0.28;
+  }
+
+  temperature = clamp((temperature * (1 - achromatic * 0.82)) + (0.5 * achromatic * 0.82), 0, 1);
+
+  let chromaSide = 0;
+  if (hue >= 70 && hue <= 180) chromaSide = -1;
+  else if (hue >= 260 && hue <= 340) chromaSide = 1;
+  else if (hue > 180 && hue < 260) chromaSide = -0.35;
+  else if (hue < 40 || hue >= 340) chromaSide = 0.35;
+
+  const fallbackSide = Number(track.number ?? track.id ?? 0) % 2 === 0 ? -1 : 1;
+  const side = Math.abs(chromaSide) > 0.2 ? chromaSide : fallbackSide * 0.26;
+  const peripheral = clamp((darkness * 0.72 + (1 - lightness) * 0.38) * (1 - whiteness * 0.72), 0, 1);
+  const axisAffinity = 1 - clamp(Math.abs(temperature - 0.5) * 1.24 + peripheral * 0.48, 0, 1);
+
+  return { temperature, brightness, saturation, whiteness, darkness, lightness, side, peripheral, axisAffinity };
 };
 
-const targetPointFor = (track, gridSize, side = 1) => {
+const targetPointFor = (track, gridSize) => {
   const metrics = colorMetrics(track);
-  const diagonal = metrics.temperature * (gridSize - 1);
-  const distance = (1 - metrics.lightness) * 3.1 + metrics.darkness * 1.4;
+  const diagonal = metrics.temperature * gridSize;
+  const drift = metrics.side * metrics.peripheral * gridSize * 0.34;
   return {
-    x: clamp(diagonal + side * distance, 0, gridSize - 1),
-    y: clamp(diagonal - side * distance, 0, gridSize - 1),
+    x: clamp(diagonal + drift, 0, gridSize),
+    y: clamp(diagonal - drift, 0, gridSize),
   };
 };
 
 const chooseLargeTracks = (tracks, count) => {
-  const ordered = [...tracks].sort((a, b) => colorMetrics(a).temperature - colorMetrics(b).temperature);
+  const ordered = [...tracks].sort((a, b) => {
+    const aMetrics = colorMetrics(a);
+    const bMetrics = colorMetrics(b);
+    return bMetrics.axisAffinity - aMetrics.axisAffinity || aMetrics.temperature - bMetrics.temperature;
+  });
   const chosen = new Set();
+  const bins = new Set();
 
-  for (let bin = 0; bin < count; bin += 1) {
-    const start = Math.floor((bin * ordered.length) / count);
-    const end = Math.max(start + 1, Math.floor(((bin + 1) * ordered.length) / count));
-    const candidate = ordered.slice(start, end).sort((a, b) => {
-      const aMetrics = colorMetrics(a);
-      const bMetrics = colorMetrics(b);
-      const aScore = aMetrics.lightness + aMetrics.whiteness * 0.55 - aMetrics.darkness * 0.25;
-      const bScore = bMetrics.lightness + bMetrics.whiteness * 0.55 - bMetrics.darkness * 0.25;
-      return bScore - aScore;
-    })[0];
-    if (candidate) chosen.add(candidate.id);
+  for (const track of ordered) {
+    const bin = Math.floor(colorMetrics(track).temperature * count);
+    const nearbyBins = [bin, bin - 1, bin + 1].filter((item) => item >= 0 && item < count);
+    if (nearbyBins.some((item) => !bins.has(item))) {
+      const targetBin = nearbyBins.find((item) => !bins.has(item));
+      bins.add(targetBin);
+      chosen.add(track.id);
+    }
+    if (chosen.size === count) break;
+  }
+
+  for (const track of ordered) {
+    if (chosen.size === count) break;
+    chosen.add(track.id);
   }
 
   return chosen;
@@ -149,10 +184,18 @@ const buildPackedCollage = (tracks) => {
     placements.push({ track, x, y, size });
   };
 
+  const diagonalPenalty = (x, y, size, metrics) => {
+    const centerX = x + size / 2;
+    const centerY = y + size / 2;
+    const distanceFromMainAxis = Math.abs(centerX - centerY) / gridSize;
+    return distanceFromMainAxis * (0.92 + metrics.axisAffinity * 1.4);
+  };
+
   largeTracks
     .sort((a, b) => colorMetrics(a).temperature - colorMetrics(b).temperature)
-    .forEach((track, index) => {
-      const target = targetPointFor(track, gridSize - 1, index % 2 === 0 ? 1 : -1);
+    .forEach((track) => {
+      const metrics = colorMetrics(track);
+      const target = targetPointFor(track, gridSize);
       const candidates = [];
       for (let y = 0; y < gridSize - 1; y += 1) {
         for (let x = 0; x < gridSize - 1; x += 1) {
@@ -162,7 +205,7 @@ const buildPackedCollage = (tracks) => {
           candidates.push({
             x,
             y,
-            distance: Math.hypot(centerX - target.x, centerY - target.y) + Math.abs(centerX - centerY) * 0.18,
+            distance: Math.hypot(centerX - target.x, centerY - target.y) + diagonalPenalty(x, y, 2, metrics),
           });
         }
       }
@@ -171,14 +214,13 @@ const buildPackedCollage = (tracks) => {
     });
 
   smallTracks
-    .map((track, index) => ({
+    .map((track) => ({
       track,
-      side: index % 2 === 0 ? 1 : -1,
       metrics: colorMetrics(track),
     }))
-    .sort((a, b) => a.metrics.temperature - b.metrics.temperature)
-    .forEach(({ track, side }) => {
-      const target = targetPointFor(track, gridSize, side);
+    .sort((a, b) => a.metrics.temperature - b.metrics.temperature || b.metrics.peripheral - a.metrics.peripheral)
+    .forEach(({ track, metrics }) => {
+      const target = targetPointFor(track, gridSize);
       const candidates = [];
       for (let y = 0; y < gridSize; y += 1) {
         for (let x = 0; x < gridSize; x += 1) {
@@ -186,7 +228,7 @@ const buildPackedCollage = (tracks) => {
           candidates.push({
             x,
             y,
-            distance: Math.hypot(x - target.x, y - target.y),
+            distance: Math.hypot(x + 0.5 - target.x, y + 0.5 - target.y) + diagonalPenalty(x, y, 1, metrics) * 0.28,
           });
         }
       }
@@ -194,7 +236,7 @@ const buildPackedCollage = (tracks) => {
       if (best) place(track, best.x, best.y, 1);
     });
 
-  return { gridSize, placements };
+  return { gridSize, placements: placements.sort((a, b) => a.y - b.y || a.x - b.x) };
 };
 
 const renderSpectrum = async (event) => {
